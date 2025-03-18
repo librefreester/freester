@@ -3,10 +3,10 @@ There is no financial gain or commercial benefit from this project.
 
 INSTRUCTIONS
 
-Download "Freester Template.ods" And import it to a google sheet ( Files -> Import ) or check https://docs.google.com/spreadsheets/d/1o-VwtnbYLk9k9pWW7fyxDGekYsZIOK31Ur14XctP98A/edit?usp=sharing
+Check [Freester template on gdrive](https://docs.google.com/spreadsheets/d/1o-VwtnbYLk9k9pWW7fyxDGekYsZIOK31Ur14XctP98A/edit?usp=sharing) or download "Freester Template.ods" And import it to a google sheet ( Files -> Import )
 
 Follow instructions inside file.
 
-Check "Freester Example.ods" for reference. or check https://docs.google.com/spreadsheets/d/1ofP3kLO2IzO4QsGeR8h6dPg9CHfN7IxV3DoIkUGeN4M/edit?usp=sharing
+Check [Freester example on gdrive](https://docs.google.com/spreadsheets/d/1ofP3kLO2IzO4QsGeR8h6dPg9CHfN7IxV3DoIkUGeN4M/edit?usp=sharing) for reference on how to fill data or check "Freester Example.ods"
 
 Your own version of the card's game will be welcomed on issues section.
