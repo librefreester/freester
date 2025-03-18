@@ -9,4 +9,4 @@ Follow instructions inside file.
 
 Check [Freester example on gdrive](https://docs.google.com/spreadsheets/d/1ofP3kLO2IzO4QsGeR8h6dPg9CHfN7IxV3DoIkUGeN4M/edit?usp=sharing) for reference on how to fill data or check "Freester Example.ods"
 
-Your own version of the card's game will be welcomed on issues section.
+Your own cards will be welcomed on [Discussions](https://github.com/librefreester/freester/discussions) section.
