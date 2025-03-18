@@ -1,5 +1,4 @@
-# freester
-# libre and DIY version of hitster game
+# freester - libre and DIY version of hitster game
 There is no financial gain or commercial benefit from this project.
 
 INSTRUCTIONS
