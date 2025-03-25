@@ -48,11 +48,12 @@ You can share your special way to play the game in the [Game modes](https://gith
 
 ## update history
 ### 25/3/2025
-- updated to get song and group automatically from Spotify link ( Old template - Manual version: https://docs.google.com/spreadsheets/d/1HmofmHHLhZIdwKclwSGQFOk-TscssELTApx9pDtABsw/edit?usp=sharing)
+- updated to get song and group automatically from Spotify link ( If you have problems, check an alternative version on links section)
 - direct link to discogs.com search
+- Add template with spotlistr provider
 
 
 ## Check Out This Cool Project Too:
-- you can use the buzzer app to synchronize with several mobile phones to determine who guesses first. [Buzzer on Play Store] https://play.google.com/store/apps/details?id=com.calidad.buzzer
+- you can use the buzzer app to synchronize with several mobile phones to determine who guesses first. [Buzzer on Play Store](https://play.google.com/store/apps/details?id=com.calidad.buzzer)
 
 - [Blindsong Scanner](https://generate.blindsongscanner.com)
