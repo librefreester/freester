@@ -1,6 +1,9 @@
 # freester - libre and DIY version of a music card game like hitster.
 There is no financial gain or commercial benefit from this project.
 
+Check also this cool project: 
+https://generate.blindsongscanner.com
+
 INSTRUCTIONS
 
 Check [Freester template on gdrive](https://docs.google.com/spreadsheets/d/1o-VwtnbYLk9k9pWW7fyxDGekYsZIOK31Ur14XctP98A/edit?usp=sharing) and click File -> Make a copy and edit that copy or download "Freester Template.ods" And import it to a google sheet ( Files -> Import )
