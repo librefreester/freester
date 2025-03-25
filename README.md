@@ -2,6 +2,7 @@
 This project is **non-commercial** and **non-profit**. There is no financial gain or commercial benefit from it.
 
 ##Contributions
+
 We welcome contributions! You can share your own cards or ideas in the [Discussions](https://github.com/librefreester/freester/discussions) section.
 
 
