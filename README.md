@@ -14,7 +14,9 @@ Your own cards will be welcomed on [Discussions](https://github.com/librefreeste
 
 ## update history
 ### 25/3/2025
-updated to get song and group automatically from Spotify link
+- updated to get song and group automatically from Spotify link
+- direct link to discogs.com search
+
 
 
 Check also this cool project: 
