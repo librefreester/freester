@@ -1,30 +1,29 @@
 # freester - libre and DIY version of a music card game like hitster.
-There is no financial gain or commercial benefit from this project.
+This project is **non-commercial** and **non-profit**. There is no financial gain or commercial benefit from it.
 
-Your own cards will be welcomed on [Discussions](https://github.com/librefreester/freester/discussions) section!.
 
+
+We welcome contributions! You can share your own cards or ideas in the [Discussions](https://github.com/librefreester/freester/discussions) section.
 ## Links
-Latest update: 25/3/2025: [Template on gdrive](https://docs.google.com/spreadsheets/d/1o-VwtnbYLk9k9pWW7fyxDGekYsZIOK31Ur14XctP98A/edit?usp=sharing) or download "Freester Template.ods" and import it to gdrive
-
-[Freester Example on gdrive](https://docs.google.com/spreadsheets/d/1ofP3kLO2IzO4QsGeR8h6dPg9CHfN7IxV3DoIkUGeN4M/edit?usp=sharing) or check "Freester Example.ods" and import it to gdrive
+**Latest Update (25/3/2025):**
+- [Template on gdrive](https://docs.google.com/spreadsheets/d/1o-VwtnbYLk9k9pWW7fyxDGekYsZIOK31Ur14XctP98A/edit?usp=sharing) or download "Freester Template.ods" and import it to gdrive
+- [Freester Example on gdrive](https://docs.google.com/spreadsheets/d/1ofP3kLO2IzO4QsGeR8h6dPg9CHfN7IxV3DoIkUGeN4M/edit?usp=sharing) or check "Freester Example.ods" and import it to gdrive
 ## INSTRUCTIONS
 
-On links section, open the template in google drive and click "File -> Make a copy" and edit your new copy.
-
-Put a spotify song link on row D, it will get automatically group's name (row A) and song's name (row B). 
-
-The year (row C) is on your own, you can open url on row E to get help from discogs.com to help you get song's year or use google.
+1. **Open the template** from the links above in Google Drive.
+2. Click **File → Make a Copy** to create an editable version of the template.
+Put a spotify song link on row D, it will get automatically group's name (row A) and song's name (row B).
+3. **Enter a Spotify song link** in column D. The group name and song name will automatically populate in column A and column B, respectively.
+4. **Manually enter the year** in column C. For assistance, you can use the URL in column E to search for the song’s year on Discogs, or simply use Google.
+5. Print and **Use any QR reader** available on your phone to scan the QR codes generated in the sheet.
 
 As a complement, you can use the buzzer app to synchronize with several mobile phones to determine who guesses first.
 https://play.google.com/store/apps/details?id=com.calidad.buzzer
 
-Use any QR reader available on your phone.
 ### WARNINGS
-You need to allow access to third parties to generate QR code and fetch group's names and song's names.
-
-It only works on google sheet. QR generation only works on desktop
-
-Do not delete or add rows, always add from the last line or it may break formulas.
+- Make sure to allow third-party access to generate QR codes and to fetch group names and song titles.
+- The template works only in Google Sheets. QR code generation is **only available on desktop**.
+- **Do not delete or add rows**. Always add new data starting from the last row, or you risk breaking the formulas.
 
 
 ## update history
@@ -33,6 +32,5 @@ Do not delete or add rows, always add from the last line or it may break formula
 - direct link to discogs.com search
 
 
-
-Check also this cool project: 
-https://generate.blindsongscanner.com
+## Check Out This Cool Project Too:
+- [Blindsong Scanner](https://generate.blindsongscanner.com)
