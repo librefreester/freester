@@ -1,8 +1,6 @@
 # freester - libre and DIY version of a music card game like hitster.
 There is no financial gain or commercial benefit from this project.
 
-Check also this cool project: 
-https://generate.blindsongscanner.com
 
 INSTRUCTIONS
 
@@ -16,4 +14,8 @@ Your own cards will be welcomed on [Discussions](https://github.com/librefreeste
 
 ## update history
 ### 25/3/2025
-updated to get song and group from Spotify link
+updated to get song and group automatically from Spotify link
+
+
+Check also this cool project: 
+https://generate.blindsongscanner.com
