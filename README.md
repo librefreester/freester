@@ -15,7 +15,7 @@ We welcome contributions! You can share your own cards or ideas in the [Discussi
 2. Click **File → Make a Copy** to create an editable version of the template.
 3. **Enter a Spotify song link** in column D. The group name and song name will automatically populate in column A and column B, respectively.
 4. **Manually enter the year** in column C. For assistance, you can use the URL in column E to search for the song’s year on Discogs, or simply use Google.
-5. Print and **Use any QR reader** available on your phone to scan the QR codes generated in the sheet.
+5. Print and **Use any QR reader** available on your phone to scan the QR codes generated in the sheet named "Print - DONT TOUCH".
 
 As a complement, you can use the buzzer app to synchronize with several mobile phones to determine who guesses first.
 https://play.google.com/store/apps/details?id=com.calidad.buzzer
