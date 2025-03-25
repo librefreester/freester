@@ -2,7 +2,11 @@
 This project is **non-commercial** and **non-profit**. There is no financial gain or commercial benefit from it.
 
 ## Contributions
-We welcome contributions! You can share your own cards or ideas in the [Discussions](https://github.com/librefreester/freester/discussions) section.
+We welcome contributions!
+
+You can share your own cards of the game in the [User's cards](https://github.com/librefreester/freester/discussions/categories/cards-made-by-users) section.
+
+You can share your special way to play the game in the [Games mode](https://github.com/librefreester/freester/discussions/categories/game-modes) section
 
 
 ## Links
