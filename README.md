@@ -27,7 +27,7 @@ You can share your special way to play the game in the [Game modes](https://gith
 6. Select all the data and click **Data -> Split text to column** and edit **Separator: detect automatically ** to **Custom** and use **|** as a custom separator
 7. Spotify is **not reliable** to check on release dates, check with discogs.com or google to improve date accuracy.
 8. Print and Use any QR reader available on your phone to scan the QR codes generated in the sheet named "Print - DONT TOUCH".
-### WARNINGS
+#### WARNINGS
 - Make sure to allow third-party access to generate QR codes and to fetch group names and song titles.
 - The template works only in Google Sheets. QR code generation is **only available on desktop**.
 - **Do not delete or add rows**. Always add new data starting from the last row, or you risk breaking the formulas.
@@ -38,7 +38,7 @@ You can share your special way to play the game in the [Game modes](https://gith
 3. **Enter a Spotify song link** in column D. The group name and song name will automatically populate in column A and column B, respectively.
 4. **Manually enter the year** in column C. For assistance, you can use the URL in column E to search for the song’s year on Discogs, or simply use Google.
 5. Print and **Use any QR reader** available on your phone to scan the QR codes generated in the sheet named "Print - DONT TOUCH".
-### WARNINGS
+#### WARNINGS
 - **If you put tens on links at the same time in the template, spotify will you block temporary. Try again later or use the old manual version of the template.**
 - Make sure to allow third-party access to generate QR codes and to fetch group names and song titles.
 - The template works only in Google Sheets. QR code generation is **only available on desktop**.
