@@ -34,7 +34,7 @@ You can share your special way to play the game in the [Game modes](https://gith
 ## INSTRUCTIONS WITH SPOTLISTR PROVIDER
 1. **Open the template with Spotlistr** from the links above in Google Drive.
 2. Click **File → Make a Copy** to create an editable version of the template.
-3. Open [SPOTLISTR](https://www.spotlistr.com/export/spotify-playlist) click **Login With Spotify To Begin!** next, put the link of the playlist on the checkbox and click **Search**.
+3. Open [SPOTLISTR](https://www.spotlistr.com/export/spotify-playlist) click **Login With Spotify To Begin!**. Next, put the link of the playlist on the checkbox and click **Search**.
 4. Enable this checkboxes: Arist(s) Name, Track Name and Release Date. Separator choose |
 5. **Don't** on download, just copy the data from the page to the A2 row on the template.
 6. Select all the data and click **Data -> Split text to column** and edit **Separator: detect automatically ** to **Custom** and use **|** as a custom separator
