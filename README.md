@@ -4,7 +4,7 @@ There is no financial gain or commercial benefit from this project.
 Your own cards will be welcomed on [Discussions](https://github.com/librefreester/freester/discussions) section!.
 
 ## Links
-[Template on gdrive](https://docs.google.com/spreadsheets/d/1o-VwtnbYLk9k9pWW7fyxDGekYsZIOK31Ur14XctP98A/edit?usp=sharing) or download "Freester Template.ods" and import it to gdrive
+Latest update: 25/3/2025: [Template on gdrive](https://docs.google.com/spreadsheets/d/1o-VwtnbYLk9k9pWW7fyxDGekYsZIOK31Ur14XctP98A/edit?usp=sharing) or download "Freester Template.ods" and import it to gdrive
 
 [Freester Example on gdrive](https://docs.google.com/spreadsheets/d/1ofP3kLO2IzO4QsGeR8h6dPg9CHfN7IxV3DoIkUGeN4M/edit?usp=sharing) or check "Freester Example.ods" and import it to gdrive
 ## INSTRUCTIONS
