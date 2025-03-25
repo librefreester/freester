@@ -17,7 +17,7 @@ You can share your special way to play the game in the [Game modes](https://gith
 
 
 - [Freester Example on gdrive](https://docs.google.com/spreadsheets/d/1ofP3kLO2IzO4QsGeR8h6dPg9CHfN7IxV3DoIkUGeN4M/edit?usp=sharing) or check "Freester Example.ods" and import it to gdrive
-## INSTRUCTIONS
+## INSTRUCTIONS WITH AUTOFILL
 
 1. **Open the template with autofill** from the links above in Google Drive.
 2. Click **File → Make a Copy** to create an editable version of the template.
