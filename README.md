@@ -13,3 +13,7 @@ Follow instructions inside file.
 Check [Freester example on gdrive](https://docs.google.com/spreadsheets/d/1ofP3kLO2IzO4QsGeR8h6dPg9CHfN7IxV3DoIkUGeN4M/edit?usp=sharing) for reference on how to fill data or check "Freester Example.ods"
 
 Your own cards will be welcomed on [Discussions](https://github.com/librefreester/freester/discussions) section.
+
+## update history
+### 25/3/2025
+updated to get song and group from Spotify link
