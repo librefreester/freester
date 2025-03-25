@@ -13,7 +13,7 @@ You can share your special way to play the game in the [Game modes](https://gith
 **Latest Update of template: 25/3/2025**
 - [Template with autofill on gdrive](https://docs.google.com/spreadsheets/d/1o-VwtnbYLk9k9pWW7fyxDGekYsZIOK31Ur14XctP98A/edit?usp=sharing) or download "Freester Template.ods" and import it to gdrive
 - [Template with spotlistr on gdrive](https://docs.google.com/spreadsheets/d/1c3N9i9IJKojDh2KQuMbtFF8Ej2LSl4-azsYcLFRkTMU/edit?usp=sharing)
-- [Template with manual edition](https://docs.google.com/spreadsheets/d/1HmofmHHLhZIdwKclwSGQFOk-TscssELTApx9pDtABsw/edit?usp=sharing)
+- [Template with manual edition on gdrive](https://docs.google.com/spreadsheets/d/1HmofmHHLhZIdwKclwSGQFOk-TscssELTApx9pDtABsw/edit?usp=sharing)
 
 
 - [Freester Example on gdrive](https://docs.google.com/spreadsheets/d/1ofP3kLO2IzO4QsGeR8h6dPg9CHfN7IxV3DoIkUGeN4M/edit?usp=sharing) or check "Freester Example.ods" and import it to gdrive
