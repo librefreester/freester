@@ -9,7 +9,7 @@ Latest update: 25/3/2025: [Template on gdrive](https://docs.google.com/spreadshe
 [Freester Example on gdrive](https://docs.google.com/spreadsheets/d/1ofP3kLO2IzO4QsGeR8h6dPg9CHfN7IxV3DoIkUGeN4M/edit?usp=sharing) or check "Freester Example.ods" and import it to gdrive
 ## INSTRUCTIONS
 
-Get the template on links section and click File -> Make a copy and edit that copy.
+On links section, open the template in google drive and click File -> Make a copy and edit that copy.
 
 Put a spotify song link on row D, it will get automatically group's name (row A) and song's name (row B). 
 
