@@ -32,7 +32,7 @@ https://play.google.com/store/apps/details?id=com.calidad.buzzer
 
 ## update history
 ### 25/3/2025
-- updated to get song and group automatically from Spotify link
+- updated to get song and group automatically from Spotify link ( Old - Manual version: https://docs.google.com/spreadsheets/d/1HmofmHHLhZIdwKclwSGQFOk-TscssELTApx9pDtABsw/edit?usp=sharing)
 - direct link to discogs.com search
 
 
