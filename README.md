@@ -25,6 +25,7 @@ As a complement, you can use the buzzer app to synchronize with several mobile p
 https://play.google.com/store/apps/details?id=com.calidad.buzzer
 
 ### WARNINGS
+- If you put tens on links at the same time in the template, spotify will you block temporary. Try again later or use the old manual version of the template.
 - Make sure to allow third-party access to generate QR codes and to fetch group names and song titles.
 - The template works only in Google Sheets. QR code generation is **only available on desktop**.
 - **Do not delete or add rows**. Always add new data starting from the last row, or you risk breaking the formulas.
@@ -32,7 +33,7 @@ https://play.google.com/store/apps/details?id=com.calidad.buzzer
 
 ## update history
 ### 25/3/2025
-- updated to get song and group automatically from Spotify link ( Old - Manual version: https://docs.google.com/spreadsheets/d/1HmofmHHLhZIdwKclwSGQFOk-TscssELTApx9pDtABsw/edit?usp=sharing)
+- updated to get song and group automatically from Spotify link ( Old template - Manual version: https://docs.google.com/spreadsheets/d/1HmofmHHLhZIdwKclwSGQFOk-TscssELTApx9pDtABsw/edit?usp=sharing)
 - direct link to discogs.com search
 
 
