@@ -18,6 +18,7 @@ The year (row C) is on your own, you can open url on row E to get help from disc
 As a complement, you can use the buzzer app to synchronize with several mobile phones to determine who guesses first.
 https://play.google.com/store/apps/details?id=com.calidad.buzzer
 
+Use any QR reader available on your phone.
 ### WARNINGS
 You need to allow access to third parties to generate QR code.
 
