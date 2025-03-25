@@ -39,7 +39,7 @@ You can share your special way to play the game in the [Game modes](https://gith
 5. **Don't** on download, just copy the data from the page to the A2 row on the template.
 6. Select all the data and click **Data -> Split text to column** and edit **Separator: detect automatically ** to **Custom** and use **|** as a custom separator
 7. Spotify is **not reliable** to check on release dates, check with discogs.com or google to improve date accuracy.
-8. Print
+8. Print and Use any QR reader available on your phone to scan the QR codes generated in the sheet named "Print - DONT TOUCH".
 ### WARNINGS
 - Make sure to allow third-party access to generate QR codes and to fetch group names and song titles.
 - The template works only in Google Sheets. QR code generation is **only available on desktop**.
