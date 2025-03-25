@@ -6,7 +6,7 @@ We welcome contributions!
 
 You can share your own cards of the game in the [User's cards](https://github.com/librefreester/freester/discussions/categories/cards-made-by-users) section.
 
-You can share your special way to play the game in the [Games mode](https://github.com/librefreester/freester/discussions/categories/game-modes) section
+You can share your special way to play the game in the [Game modes](https://github.com/librefreester/freester/discussions/categories/game-modes) section
 
 
 ## Links
