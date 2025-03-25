@@ -20,7 +20,7 @@ https://play.google.com/store/apps/details?id=com.calidad.buzzer
 
 Use any QR reader available on your phone.
 ### WARNINGS
-You need to allow access to third parties to generate QR code.
+You need to allow access to third parties to generate QR code and to fech group and song.
 
 It only works on google sheet. QR generation only works on desktop
 
