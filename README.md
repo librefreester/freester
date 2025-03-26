@@ -23,7 +23,7 @@ You can share your special way to play the game in the [Game modes](https://gith
 2. Click **File → Make a Copy** to create an editable version of the template.
 3. Open [SPOTLISTR](https://www.spotlistr.com/export/spotify-playlist) click **Login With Spotify To Begin!**. Next, put the link of the playlist on the checkbox and click **Search**.
 4. Enable this checkboxes: Arist(s) Name, Track Name, SpotifyID Release Date. Separator choose |
-5. **Don't** on download, just copy the data from the page to the A2 row on the template.
+5. **Don't** download, just copy the data from the page to the A2 row on the template.
 6. Select all the data and click **Data -> Split text to column** and edit **Separator: detect automatically ** to **Custom** and use **|** as a custom separator
 7. Next, you should **select all the column D, next go to "Format -> Number -> custom number format" -> write yyyy** and click apply
 8. Spotify is **not reliable** to check on release dates, check with discogs.com or google to improve date accuracy.
