@@ -25,11 +25,11 @@ You can share your special way to play the game in the [Game modes](https://gith
 4. Enable this checkboxes: Arist(s) Name, Track Name, SpotifyID Release Date. Separator choose |
 5. **Don't download**, just copy the data from the page to the A2 row on the template.
 6. Select all the data and click **Data -> Split text to column** and edit **Separator: detect automatically ** to **Custom** and use **|** as a custom separator
-7. Next, you should **select all the column D, next go to "Format -> Number -> custom number format" -> write yyyy** and click apply
+7. Next, you should check dates of songs. You need to add month and date even if is fake, because it doesn't work with only a year... something like yyyy-1-1 with the correct year. 
 8. Spotify is **not reliable** to check on release dates, check with discogs.com or google to improve date accuracy.
 9. Print and Use any QR reader available on your phone to scan the QR codes generated in the sheet named "Print - DONT TOUCH".
 #### WARNINGS
-- If dates shows as 1905, you need to **select all the column D, next go to "Format -> Number -> custom number format" -> write yyyy** and click apply
+- If dates shows as 1905, you need to add a month and a day to the release date column.
 - Make sure to allow third-party access to generate QR codes and to fetch group names and song titles.
 - The template works only in Google Sheets. QR code generation is **only available on desktop**.
 - **Do not delete or add rows**. Always add new data starting from the last row, or you risk breaking the formulas.
