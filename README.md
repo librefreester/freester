@@ -29,6 +29,7 @@ You can share your special way to play the game in the [Game modes](https://gith
 8. Spotify is **not reliable** to check on release dates, check with discogs.com or google to improve date accuracy.
 9. Print and Use any QR reader available on your phone to scan the QR codes generated in the sheet named "Print - DONT TOUCH".
 #### WARNINGS
+- If dates shows as 1905, you need to **select all the column D, next go to "Format -> Number -> custom number format" -> write yyyy** and click apply
 - Make sure to allow third-party access to generate QR codes and to fetch group names and song titles.
 - The template works only in Google Sheets. QR code generation is **only available on desktop**.
 - **Do not delete or add rows**. Always add new data starting from the last row, or you risk breaking the formulas.
