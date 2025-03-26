@@ -18,7 +18,7 @@ You can share your special way to play the game in the [Game modes](https://gith
 
 - [Freester Example on gdrive](https://docs.google.com/spreadsheets/d/1ofP3kLO2IzO4QsGeR8h6dPg9CHfN7IxV3DoIkUGeN4M/edit?usp=sharing) or check "Freester Example.ods" and import it to gdrive
 
-## INSTRUCTIONS WITH SPOTLISTR PROVIDER | work with Playlists 
+## INSTRUCTIONS WITH SPOTLISTR PROVIDER | work with Playlist links 
 1. **Open the template with Spotlistr** from the links above in Google Drive.
 2. Click **File → Make a Copy** to create an editable version of the template.
 3. Open [SPOTLISTR](https://www.spotlistr.com/export/spotify-playlist) click **Login With Spotify To Begin!**. Next, put the link of the playlist on the checkbox and click **Search**.
@@ -34,7 +34,7 @@ You can share your special way to play the game in the [Game modes](https://gith
 - The template works only in Google Sheets. QR code generation is **only available on desktop**.
 - **Do not delete or add rows**. Always add new data starting from the last row, or you risk breaking the formulas.
 
-## INSTRUCTIONS WITH AUTOFILL | Work with Songs
+## INSTRUCTIONS WITH AUTOFILL | Work with Songs links
 1. **Open the template with autofill** from the links above in Google Drive.
 2. Click **File → Make a Copy** to create an editable version of the template.
 3. **Enter a Spotify song link** in column D. The group name and song name will automatically populate in column A and column B, respectively.
