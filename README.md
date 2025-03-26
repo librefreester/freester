@@ -24,7 +24,7 @@ You can share your special way to play the game in the [Game modes](https://gith
 3. Open [SPOTLISTR](https://www.spotlistr.com/export/spotify-playlist) click **Login With Spotify To Begin!**. Next, put the link of the playlist on the checkbox and click **Search**.
 4. Enable this checkboxes: Arist(s) Name, Track Name, SpotifyID and Release Date. As a Separator choose |
 5. **Don't download**, just copy the data from the page to the A2 row on the template.
-6. Select all the data and click **Data -> Split text to column** and edit **Separator: detect automatically ** to **Custom** and use **|** as a custom separator
+6. Select all the data and click **Data -> Split text to column** and edit **Separator: detect automatically** to **Custom** and use **|** as a custom separator
 7. Next, you should check dates of songs. You need to add month and date even if is fake, because it doesn't work with only a year... something like yyyy-1-1 with the correct year. 
 8. Spotify is **not reliable** to check on release dates, check with discogs.com or google to improve date accuracy.
 9. Print and Use any QR reader available on your phone to scan the QR codes generated in the sheet named "Print - DONT TOUCH".
