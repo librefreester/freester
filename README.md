@@ -22,7 +22,7 @@ You can share your special way to play the game in the [Game modes](https://gith
 1. **Open the template with Spotlistr** from the links above in Google Drive.
 2. Click **File → Make a Copy** to create an editable version of the template.
 3. Open [SPOTLISTR](https://www.spotlistr.com/export/spotify-playlist) click **Login With Spotify To Begin!**. Next, put the link of the playlist on the checkbox and click **Search**.
-4. Enable this checkboxes: Arist(s) Name, Track Name, SpotifyID Release Date. Separator choose |
+4. Enable this checkboxes: Arist(s) Name, Track Name, SpotifyID and Release Date. As a Separator choose |
 5. **Don't download**, just copy the data from the page to the A2 row on the template.
 6. Select all the data and click **Data -> Split text to column** and edit **Separator: detect automatically ** to **Custom** and use **|** as a custom separator
 7. Next, you should check dates of songs. You need to add month and date even if is fake, because it doesn't work with only a year... something like yyyy-1-1 with the correct year. 
