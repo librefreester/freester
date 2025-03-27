@@ -39,7 +39,7 @@ You can share your special way to play the game in the [Game modes](https://gith
 2. Click **File → Make a Copy** to create an editable version of the template.
 3. **Enter a Spotify song link** in column D. The group name and song name will automatically populate in column A and column B, respectively.
 4. **Manually enter the year** in column C. For assistance, you can use the URL in column E to search for the song’s year on Discogs, or simply use Google.
-5. Print and **Use any QR reader** available on your phone to scan the QR codes generated in the sheet named "Print - DONT TOUCH".
+5. Print in google with **Scale: fit to width**  and **margins: narrow**. After that, you can **Use any QR reader** available on your phone to scan the QR codes generated in the sheet named "Print - DONT TOUCH".
 #### WARNINGS
 - **If you put tens on links at the same time in the template, spotify will block you temporary. Try again later deleting and adding again broken links or use the old manual version of the template.**
 - Make sure to allow third-party access to generate QR codes and to fetch group names and song titles.
