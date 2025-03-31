@@ -27,7 +27,7 @@ You can share your special way to play the game in the [Game modes](https://gith
 6. Select all the data and click **Data -> Split text to column** and edit **Separator: detect automatically** to **Custom** and use **|** as a custom separator
 7. Next, you should check dates of songs. You need to add month and date even if is fake, because it doesn't work with only a year... something like yyyy-1-1 with the correct year. 
 8. Spotify is **not reliable** to check on release dates, check with discogs.com or google to improve date accuracy.
-9. Print in google with **Pages:** print only the sheet called **Print - DONT TOUCH** and choose **Scale: fit to width** and **margins: narrow**. You can **Use any QR reader** available on your phone to scan the QR codes generated in the sheet named "Print - DONT TOUCH".
+9. Print in google with **Pages:** print only the sheet called **Print - DONT TOUCH** and choose **Scale: fit to width** and **margins: narrow**. You can **Use any QR reader** available on your phone to scan the QR codes.
 
 #### WARNINGS
 - If dates shows as 1905, you need to add a month and a day to the release date column.
@@ -40,7 +40,7 @@ You can share your special way to play the game in the [Game modes](https://gith
 2. Click **File → Make a Copy** to create an editable version of the template.
 3. **Enter a Spotify song link** in column D. The group name and song name will automatically populate in column A and column B, respectively.
 4. **Manually enter the year** in column C. For assistance, you can use the URL in column E to search for the song’s year on Discogs, or simply use Google.
-5. Print in google with **Pages:** print only the sheet called **Print - DONT TOUCH** and choose **Scale: fit to width** and **margins: narrow**. You can **Use any QR reader** available on your phone to scan the QR codes generated in the sheet named "Print - DONT TOUCH".
+5. Print in google with **Pages:** print only the sheet called **Print - DONT TOUCH** and choose **Scale: fit to width** and **margins: narrow**. You can **Use any QR reader** available on your phone to scan the QR codes.
 #### WARNINGS
 - **If you put tens on links at the same time in the template, spotify will block you temporary. Try again later deleting and adding again broken links or use the old manual version of the template.**
 - Make sure to allow third-party access to generate QR codes and to fetch group names and song titles.
